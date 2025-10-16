@@ -1,6 +1,6 @@
 function Home(){
     // Título da Página
-    return <h1>Olá! bom dia.</h1>
+    return <h1>Olá! bom dia. Tudo bem?</h1>
 }
 
 export default Home;
