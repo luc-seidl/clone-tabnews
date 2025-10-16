@@ -20,6 +20,7 @@ export default Home;
     // --amend "emenda" o ultimo commit
 // git branch pra checar a branch
 // git push pra passar ao repositório de origem
+    // adicionando -f ele força o push
 // git pull pra puxar arquivos do git
 
 // git log pra checar os logs de cada commit (add --oneline pra ser mais simples)
