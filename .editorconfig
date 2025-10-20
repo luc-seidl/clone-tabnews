@@ -1,5 +1,5 @@
 root = true
 
-[*] # Tipo de arquivo a ser configurado [*] pra todos, ou [.js] extensão
-indent_style = space # Tipo da indentação
-indent_size = 2 # Tamanhos da Identação
+[*]
+indent_style = space
+indent_size = 2
